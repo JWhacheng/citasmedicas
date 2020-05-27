@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+REST API github: [REST API](https://github.com/JWhacheng/citasmedicas_api)
 
 ## Available Scripts
 
